@@ -14,6 +14,9 @@ export const Colors = {
     icon: '#687076',
     tabIconDefault: '#687076',
     tabIconSelected: tintColorLight,
+    thumbColor: '#f5dd4b',
+    trackColorFalse: '#767577',
+    trackColorTrue: 'lightblue',
   },
   dark: {
     text: '#ECEDEE',
